@@ -1,5 +1,5 @@
 # Problem 1, Question
-### Q: Create an algorithms to determine whether a string has unique characters
+### Q: Create an algorithm to determine whether a string has unique characters
 #### Example:
 ```
 isUnique("hello") => false

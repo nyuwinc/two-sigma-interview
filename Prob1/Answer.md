@@ -31,7 +31,7 @@ This would result to a time complexity of O(n), much better than the previous
 algorithm. However, the space complexity because O(n).
 
 We can improve this algorithm even further by using an Array. However, we have
-to know whether we're dealing with ASCII or Unicode characters. For the sake of simplicity, let's assume we're only working letters A-Z.
+to know whether we're dealing with ASCII or Unicode characters. For the sake of simplicity, let's assume we're only working capital letters from A-Z
 ```
 isUnique(string):
   Array = new Array[26]
